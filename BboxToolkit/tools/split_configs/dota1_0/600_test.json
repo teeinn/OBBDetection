@@ -1,0 +1,29 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/media/qisens/2tb1/python_projects/inference_pr/aws_ec2_inference_server/tmp/new_poc_area_Input/MO-11111111112/"
+    ],
+    "ann_dirs": null,
+    "classes": null,
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        600
+    ],
+    "gaps": [
+        150
+    ],
+    "rates": [
+        1.0
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.5,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": false,
+    "save_dir": "data/split_600_dota1_0/test_600/",
+    "save_ext": ".png"
+}

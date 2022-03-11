@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6ec33d8-d9d9-4ecc-9606-6c46adf0900e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BboxToolkit" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/BboxToolkit/datasets/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/BboxToolkit/datasets/misc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/img_split.py" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/img_split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/600_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/600_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_test.json" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_train.json" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_train.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_trainval.json" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_trainval.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_val.json" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/split_configs/dota1_0/ms_val.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BboxToolkit/tools/vis_configs/dota1_0/colors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BboxToolkit/tools/vis_configs/dota1_0/colors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/obb/_base_/datasets/dota.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/obb/_base_/datasets/dota.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/obb/_base_/schedules/schedule_1x.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/obb/_base_/schedules/schedule_1x.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r101_fpn_1x_ms_rr_dota10.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r101_fpn_1x_ms_rr_dota10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r50_fpn_1x_dota10.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r50_fpn_1x_dota10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r50_fpn_1x_ms_rr_dota10.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r50_fpn_1x_ms_rr_dota10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/huge_image_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/huge_image_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/core/evaluation/class_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/core/evaluation/class_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/datasets/voc.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/datasets/voc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmdet/models/detectors/obb/obb_rpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmdet/models/detectors/obb/obb_rpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/convert_datasets/pascal_voc.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/convert_datasets/pascal_voc.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BboxToolkit" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23UTX9iczlXfWUWsgchBQRynCT4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tools" />
+      <recent name="$PROJECT_DIR$/mmdet/datasets/obb" />
+      <recent name="$PROJECT_DIR$/configs/obb/oriented_rcnn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="inference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OBBDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/inference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="move_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OBBDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/move_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pascal_voc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OBBDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools/convert_datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/convert_datasets/pascal_voc.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../../inference_pr/tfrecord-viewer/new_dataset_overfitting_test13_riverarea_area123 --o=$PROJECT_DIR$/../../inference_pr/tfrecord-viewer/new_dataset_overfitting_test13_riverarea_area123/output" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OBBDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/test.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r101_fpn_1x_ms_rr_dota10.py $PROJECT_DIR$/tools/data/faster_rcnn_orpn_r101_fpn_1x_mssplit_rr_dota10_epoch12.pth --show-dir=$PROJECT_DIR$/output_inference/" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OBBDetection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/train.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r101_fpn_1x_ms_rr_dota10.py --gpu-ids=1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.pascal_voc" />
+      <item itemvalue="Python.inference" />
+      <item itemvalue="Python.move_file" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.move_file" />
+        <item itemvalue="Python.inference" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.pascal_voc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6ec33d8-d9d9-4ecc-9606-6c46adf0900e" name="Changes" comment="" />
+      <created>1641787772583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641787772583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/huge_image_demo.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdet/datasets/obb/hrsc.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdet/datasets/obb/dota.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BboxToolkit/BboxToolkit/datasets/DOTAio.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BboxToolkit/tools/img_split.py</url>
+          <line>228</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BboxToolkit/tools/img_split.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BboxToolkit/tools/img_split.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/convert_datasets/pascal_voc.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/convert_datasets/pascal_voc.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r50_fpn_1x_dota10.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/configs/obb/oriented_rcnn/faster_rcnn_orpn_r101_fpn_1x_ms_rr_dota10.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mmdet/models/detectors/obb/obb_rpn.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tools/inference.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/move_file.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

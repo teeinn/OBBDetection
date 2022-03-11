@@ -1,0 +1,31 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/home/qisens/2020.3~/DOTA1.0_Task1_Dataset/val/images/"
+    ],
+    "ann_dirs": [
+        "/home/qisens/2020.3~/DOTA1.0_Task1_Dataset/val/labelTxt"
+    ],
+    "classes": null,
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        1024
+    ],
+    "gaps": [
+        500
+    ],
+    "rates": [
+        0.5, 1.0, 1.5
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.7,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": false,
+    "save_dir": "/media/qisens/2tb1/python_projects/training_pr/OBBDetection/BboxToolkit/tools/data/split_ms_dota1_0/val/",
+    "save_ext": ".png"
+}
